@@ -1,6 +1,6 @@
 # psi-session.rb
 Tool designed to deliver you a reverse tcp powershell prompt directly to your linux commandline.
-Execution is currently done via pth patched binaries for the time being.
+Execution is currently done via pth patched binaries for the time being.f
 
 Syntax: ruby psi-session.rb <DOMAIN/username> <password> <rhost> <lhost> <lport>
 
