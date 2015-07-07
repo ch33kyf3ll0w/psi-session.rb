@@ -4,7 +4,7 @@ Execution is currently done via pth patched binaries for the time being.
 
 Syntax:
 
->ruby psi-session.rb <DOMAIN/username> <password> <rhost> <lhost> <lport>
+>ruby psi-session.rb DOMAIN/username password rhost lhost lport
 
 Example:
 
