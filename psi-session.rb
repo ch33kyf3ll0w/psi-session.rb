@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-#Author: Andrew 'cheekyf3ll0w' Bonstrom
+#Author: Andrew 'ch33kyf3ll0w' Bonstrom
 #Currently relies on pth's patched wmi binaries (specifically wmis) for execution
 #v1.0
 require 'open3'
